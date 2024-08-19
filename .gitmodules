@@ -1,0 +1,3 @@
+[submodule "sepsis"]
+	path = sepsis
+	url = https://github.com/KruthikaJ1109/SEPSIS_PREDICTION-using-xgboost.git
